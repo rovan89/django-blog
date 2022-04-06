@@ -1,1 +1,1 @@
-web: gunicorn codestar.esgi
+web: gunicorn codestar2022-dev.esgi
